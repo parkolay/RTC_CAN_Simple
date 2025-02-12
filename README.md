@@ -1,3 +1,5 @@
+Code for time temp over CAN (example of generating CAN messages using MP2515 chip with ESP32
+
 Rev 1 -->08855
 Using library Wire at version 1.0 in folder: \libraries\Wire 
 Using library U8g2 at version 2.34.22 in folder: \libraries\U8g2 
